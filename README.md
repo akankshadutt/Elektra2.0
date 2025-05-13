@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8EC7&height=120&section=footer"/>
+</p>
+
+
 <h1 align="center">Hi there 👋, I'm Elektra2.0</h1>
 <h3 align="center">Code. Learn. Repeat.</h3>
 
@@ -7,46 +13,64 @@
 
 ---
 
-### 🧠 About Me
-
-🚀 I go by **Elektra2.0**  
-📍 Based in **Mumbai, India**  
-💡 I love **coding** and **learning** — it’s like unlocking new levels every day.  
-🎮 Philosophy: _“Coding is just gaming with real-world consequences.”_  
+### 💫 About Me
+✨ Based in **Mumbai, India** 🇮🇳  
+💡 A passionate **learner & coder**  
+🎮 Gaming soul meets dev life  
+🌸 _"Coding is like a boss fight — the more bugs, the more XP."_  
+☕ Addicted to coffee and curiosity
 
 ---
 
-### ⚡ GitHub Stats
+### 🌟 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akankshadutt&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akankshadutt&show_icons=true&theme=radical&icon_color=FF8EC7&title_color=FF8EC7" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshadutt&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshadutt&layout=compact&theme=cobalt&title_color=FF8EC7" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akankshadutt&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akankshadutt&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 🎀 Fun Vibes
 
-<!-- Add your social links below when you're ready -->
+- 💫 Leveling up one keystroke at a time  
+- 🌈 Aesthetic code > Ugly hacks  
+- 🌙 Often found coding at 2AM  
+- 🦄 Loves magic in logic
 
-- Coming soon...
+---
+
+### 💖 Badges for Vibes
+
+![Pink Power](https://img.shields.io/badge/-✨%20Pink%20Power-FF69B4?style=for-the-badge)
+![Bug Slayer](https://img.shields.io/badge/-🪲%20Bug%20Slayer-black?style=for-the-badge)
+![Coffee Lover](https://img.shields.io/badge/-☕%20Coffee%20Lover-6f4e37?style=for-the-badge)
+![Always Learning](https://img.shields.io/badge/-📚%20Always%20Learning-8A2BE2?style=for-the-badge)
+![Late Night Coder](https://img.shields.io/badge/-🌙%20Late%20Night%20Coder-0f0f0f?style=for-the-badge)
 
 ---
 
-### 🛡️ Fun Badges
+### 🌸 Let's Connect
 
-![Code Warrior](https://img.shields.io/badge/-Code%20Warrior-black?style=flat-square&logo=github&logoColor=white)
-![Lifelong Learner](https://img.shields.io/badge/-Lifelong%20Learner-blueviolet?style=flat-square)
-![Night Coder](https://img.shields.io/badge/-Night%20Coder-0f0f0f?style=flat-square)
+Coming soon... but I'm probably lurking on GitHub right now 👀💻
 
 ---
+
 
 > *“In a world full of bugs, be the debugger.”*
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8EC7&height=120&section=footer"/>
+</p>
+
+
 
