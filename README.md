@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8EC7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8EC7"/>
 </p>
 
 
